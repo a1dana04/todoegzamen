@@ -1,0 +1,50 @@
+.img1 {
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.list1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+
+    input {
+        width: 300px;
+        height: 30px;
+        outline: none;
+        border: 2px solid white;
+        background: none;
+    }
+
+
+    button {
+        padding: 10px 40px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        background: rgb(136, 6, 136);
+    }
+}
+
+
+
+
+
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    button{
+        padding: 10px 40px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        background: rgb(136, 6, 136);
+        margin-top: 20px;
+    }
+}
+
+
